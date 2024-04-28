@@ -12,12 +12,6 @@ export default defineConfig({
     build: {
         rollupOptions: {
             external: [
-                'sweetalert2',
-                'react-datepicker',
-                'gsap',
-                'react-icons/md',
-                'papaparse',
-                'react-icons/fa',
                 'react-datepicker/dist/react-datepicker.css',
             ],
         },
