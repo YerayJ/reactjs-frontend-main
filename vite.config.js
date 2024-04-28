@@ -15,7 +15,6 @@ export default defineConfig({
                 'sweetalert2',
                 'react-datepicker',
                 'gsap',
-                'framer-motion',
                 'react-icons/md',
                 'papaparse',
                 'react-icons/fa',
